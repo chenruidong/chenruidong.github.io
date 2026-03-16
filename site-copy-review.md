@@ -42,7 +42,7 @@ Secondary button:
 Email
 
 Hero summary items:
-- Postdoctoral Fellow, Jazayeri Lab, MIT
+- Research Scientist, Jazayeri Lab, MIT
 - Ph.D., Neurobiology and Behavior, Cornell University
 - B.Eng., Computer Science, University of Hong Kong
 
