@@ -13,10 +13,10 @@ Ruidong Chen studies how neural circuits learn from experience and observation, 
 ## Hero
 
 Eyebrow:
-Systems neuroscience • Reinforcement learning • Social inference
+Systems & Computational Neuroscience
 
 Main title:
-Studying how brains learn from action and observation.
+Bio
 
 Intro paragraph:
 Ruidong Chen is a neuroscientist whose work connects circuit mechanisms, behavior, and theory across songbirds, parrots, and primates. His research asks how brains generate predictions, organize behavior into flexible modules, and integrate evidence from self-experience with evidence learned by watching others.
@@ -31,7 +31,7 @@ Hero summary items:
 ## Main Research Areas
 
 Section heading:
-Past projects.
+Selected works.
 
 ### Area 1
 
@@ -164,6 +164,9 @@ https://doi.org/10.1038/s41586-025-09885-0
 
 ## Links
 
+Section heading:
+Links.
+
 Email:
 ruidong@mit.edu
 
@@ -171,10 +174,37 @@ Google Scholar label:
 All Publications
 
 Google Scholar note:
-Scholar search
+Publication list
 
 Google Scholar URL:
-https://scholar.google.com/scholar?hl=en&q=%22Ruidong+Chen%22
+https://scholar.google.com/citations?user=omTfD3gAAAAJ&hl=en&oi=ao
+
+X label:
+@ruidongchen
+
+X note:
+Short updates
+
+X URL:
+https://x.com/ruidongchen
+
+Bluesky label:
+@ruidong.bsky.social
+
+Bluesky note:
+Public posts
+
+Bluesky URL:
+https://bsky.app/profile/ruidong.bsky.social
+
+LinkedIn label:
+Ruidong Chen
+
+LinkedIn note:
+Professional profile
+
+LinkedIn URL:
+https://www.linkedin.com/in/ruidong-chen-b5174733/
 
 Zhihu label:
 Mon1st
