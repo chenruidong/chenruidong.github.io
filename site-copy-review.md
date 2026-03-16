@@ -17,6 +17,7 @@ Ruidong Chen
 
 Navigation:
 - Bio
+- News
 - Research
 - Links
 
@@ -45,6 +46,68 @@ Hero summary items:
 - Research Scientist, Jazayeri Lab, MIT
 - Ph.D., Neurobiology and Behavior, Cornell University
 - B.Eng., Computer Science, University of Hong Kong
+
+## News
+
+Section kicker:
+News
+
+Section heading:
+News.
+
+Item:
+2026.07.18
+
+Announcement:
+I will co-chair the Neurobiology of Cognition GRS. Please apply!
+
+Link label:
+Conference page
+
+Link URL:
+https://www.grc.org/neurobiology-of-cognition-grs-conference/2026
+
+Item:
+2026.02.28
+
+Announcement:
+I was interviewed by ScienceNet.cn.
+
+Link label:
+Read the interview
+
+Link URL:
+https://news.sciencenet.cn/htmlnews/2026/2/560639.shtm
+
+Item:
+2026.01.07
+
+Announcement:
+My first postdoc paper is published in Nature.
+
+Link label:
+Read the paper
+
+Link URL:
+https://www.nature.com/articles/s41586-025-09885-0
+
+Item:
+2025.05.04
+
+Announcement:
+I started a new podcast with Sophon.
+
+English link label:
+Listen on Apple Podcasts
+
+English link URL:
+https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
+
+Chinese link label:
+在小宇宙收听
+
+Chinese link URL:
+https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 
 ## Main Research Areas
 

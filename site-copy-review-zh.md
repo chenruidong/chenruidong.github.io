@@ -17,6 +17,7 @@
 
 导航：
 - 简介
+- 动态
 - 研究
 - 链接
 
@@ -45,6 +46,68 @@
 - 麻省理工学院麦戈文脑科学研究所 研究科学家
 - 康奈尔大学神经生物学与行为学博士
 - 香港大学计算机科学工学学士
+
+## 动态
+
+分节肩题：
+动态
+
+分节标题：
+动态。
+
+条目：
+2026.07.18
+
+公告：
+我将共同主持 Neurobiology of Cognition GRS，欢迎申请参加！
+
+链接按钮：
+会议信息
+
+链接：
+https://www.grc.org/neurobiology-of-cognition-grs-conference/2026
+
+条目：
+2026.02.28
+
+公告：
+我接受了科学网的采访。
+
+链接按钮：
+查看采访
+
+链接：
+https://news.sciencenet.cn/htmlnews/2026/2/560639.shtm
+
+条目：
+2026.01.07
+
+公告：
+我的第一篇博士后论文发表于 Nature。
+
+链接按钮：
+查看论文
+
+链接：
+https://www.nature.com/articles/s41586-025-09885-0
+
+条目：
+2025.05.04
+
+公告：
+我和智子一起开始了一档新播客。
+
+英文链接按钮：
+Listen on Apple Podcasts
+
+英文链接：
+https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
+
+中文链接按钮：
+在小宇宙收听
+
+中文链接：
+https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 
 ## 主要研究
 
