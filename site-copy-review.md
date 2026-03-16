@@ -53,7 +53,7 @@ Section kicker:
 News
 
 Section heading:
-News.
+News
 
 Item:
 2026.07.18
@@ -115,7 +115,7 @@ Section kicker:
 Main Research Areas
 
 Section heading:
-Selected works.
+Selected works
 
 ### Area 1
 
@@ -273,7 +273,7 @@ Section kicker:
 Links
 
 Section heading:
-Links.
+Links
 
 Email label:
 Email
