@@ -16,6 +16,7 @@ Wordmark:
 Ruidong Chen
 
 Navigation:
+- Bio
 - Research
 - Links
 
