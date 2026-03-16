@@ -298,6 +298,56 @@ p {
   gap: 0.9rem;
 }
 
+.selected-works {
+  display: grid;
+  gap: 0.8rem;
+  margin-top: 0.45rem;
+}
+
+.selected-kicker {
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.78rem;
+}
+
+.work-list {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.work-item {
+  display: grid;
+  gap: 0.55rem;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--panel-strong);
+}
+
+.work-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.8rem;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+}
+
+.work-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  padding: 0.48rem 0.78rem;
+  border-radius: 999px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  text-decoration: none;
+  font-weight: 600;
+}
+
 .publication-group {
   display: grid;
   gap: 0.8rem;

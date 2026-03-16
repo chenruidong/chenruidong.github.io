@@ -26,27 +26,12 @@ Hero summary items:
 - Ph.D., Neurobiology and Behavior, Cornell University
 - B.Eng., Computer Science, University of Hong Kong
 
-## Bio
 
-Section heading:
-From vocal learning in birds to social inference in primates.
-
-Paragraph 1:
-I received a B.Eng. in computer science from the University of Hong Kong and a Ph.D. in neurobiology and behavior from Cornell University. At Cornell, I studied the neural circuit mechanisms of song learning in zebra finches and related motor control questions in budgerigars.
-
-Paragraph 2:
-I am now a postdoctoral fellow at MIT, working with Mehrdad Jazayeri. My current work focuses on the neural basis of social inference and observational learning in nonhuman primates.
-
-Research focus list:
-- Reinforcement learning and prediction errors
-- Flexible organization of singing and movement
-- Evidence accumulation across experience and observation
-- Population geometry and neural computation
 
 ## Main Research Areas
 
 Section heading:
-Three threads that define the past work.
+Past projects.
 
 ### Area 1
 
@@ -54,68 +39,12 @@ Title:
 Reinforcement learning by intrinsic motivation
 
 Paragraph 1:
-Graduate work in the songbird system examined how dopaminergic prediction errors support vocal learning. Building on prior evidence that VTA neurons projecting to Area X encode performance prediction errors during singing, this line of work identified ventral pallidum as a critical source of those signals. Using lesion, retrograde viral tracing, microstimulation, and in vivo single-unit recording, I showed that ventral pallidum is required for song learning, receives input from song timing and error-related regions, and sends diverse performance error signals to dopaminergic midbrain.
+My work in the songbird system examined how dopaminergic prediction errors support vocal learning. Building on prior evidence that VTA neurons projecting to Area X encode performance prediction errors during singing, this line of work identified ventral pallidum as a critical source of those signals. Using lesion, retrograde viral tracing, microstimulation, and in vivo single-unit recording, I showed that ventral pallidum is required for song learning, receives input from song timing and error-related regions, and sends diverse performance error signals to dopaminergic midbrain.
 
 Paragraph 2:
 These findings motivated an actor-critic framework for song learning that links multiple brain regions into a circuit-level account of how intrinsic performance errors drive learning.
 
-### Area 2
-
-Title:
-Organization of singing and moving modules in songbird brain and behavior
-
-Paragraph 1:
-A second graduate project asked how specialized behavioral modules are organized and coordinated. In zebra finches, singing and locomotion can be studied together, making it possible to compare reinforcement and timing across distinct behaviors. Behavioral work showed that the same broadband noise stimulus can negatively reinforce vocal variants while positively reinforce locomotion in a place-preference task, arguing multiple intrinsic motivations.
-
-Paragraph 2:
-Neural analyses from ventral pallidum and dopaminergic midbrain further showed that timing signals can switch between song and movement on sub-second timescales. The result is a view of basal ganglia and midbrain circuits as flexibly gated across behavioral contexts rather than fixed to one function.
-
-### Area 3
-
-Title:
-Evidence integration between self-experience and observation in the cingulate cortex
-
-Paragraph 1:
-We asked how observational learning interacts with evidence accumulation in the primate brain. In a two-player task, subjects alternated between acting and observing while both accumulated evidence. Behavior in humans and monkeys revealed a reliable asymmetry: observation is less effective than direct experience even when visual information and motivational state is matched.
-
-Paragraph 2:
-Electrophysiology in anterior cingulate cortex showed that experienced and observed evidence are both encoded and projected onto a shared belief axis, with a biased alignment toward self-experience. Population geometry and recurrent neural network modeling suggest this bias emerges from computations within ACC dynamics, providing a mechanistic account of why learning from others is systematically discounted.
-
-## Publications
-
-Section heading:
-Publications.
-
-### Group 1
-
-Group title:
-Evidence integration and social inference
-
-Group description:
-Primate observational learning, anterior cingulate cortex.
-
-Publication:
-Evidence accumulation from experience and observation in the cingulate cortex
-
-Authors:
-Chen R*, Radkani S*, Valluru N, Yoo SBM, Jazayeri M.
-
-Venue and year:
-Nature, 2026
-
-Summary:
-Demonstrates how ACC integrates experienced and observed evidence into a shared belief representation with a bias toward self-experience.
-
-Article URL:
-https://doi.org/10.1038/s41586-025-09885-0
-
-### Group 2
-
-Group title:
-Reinforcement learning and performance prediction error
-
-Group description:
-Songbird learning, dopaminergic error signals, ventral pallidum.
+Selected works:
 
 Publication:
 Actor-critic reinforcement learning in the songbird
@@ -162,13 +91,18 @@ Establishes that basal ganglia projecting dopamine neurons encodes performance e
 Article URL:
 https://www.science.org/doi/10.1126/science.aah6837
 
-### Group 3
+### Area 2
 
-Group title:
-Behavioral modules: separate motivational drive and a temporal multiplexing neural basis for singing and movement
+Title:
+Organization of singing and moving modules in songbird brain and behavior
 
-Group description:
-Flexible gating between specialized behaviors in songbird circuits and behavior.
+Paragraph 1:
+A second graduate project asked how specialized behavioral modules are organized and coordinated. In zebra finches, singing and locomotion can be studied together, making it possible to compare reinforcement and timing across distinct behaviors. Behavioral work showed that the same broadband noise stimulus can negatively reinforce vocal variants while positively reinforce locomotion in a place-preference task, arguing multiple intrinsic motivations.
+
+Paragraph 2:
+Neural analyses from ventral pallidum and dopaminergic midbrain further showed that timing signals can switch between song and movement on sub-second timescales. The result is a view of basal ganglia and midbrain circuits as flexibly gated across behavioral contexts rather than fixed to one function.
+
+Selected works:
 
 Publication:
 Movement signaling in ventral pallidum and dopaminergic midbrain is gated by behavioral state in singing birds
@@ -200,13 +134,47 @@ Shows that the same noise can be appetitive in place preference yet aversive in 
 Article URL:
 https://www.nature.com/articles/s41598-018-25112-5
 
-## Links
+### Area 3
 
-Section heading:
-Professional and public-facing profiles.
+Title:
+Evidence integration between self-experience and observation in the cingulate cortex
+
+Paragraph 1:
+We asked how observational learning interacts with evidence accumulation in the primate brain. In a two-player task, subjects alternated between acting and observing while both accumulated evidence. Behavior in humans and monkeys revealed a reliable asymmetry: observation is less effective than direct experience even when visual information and motivational state is matched.
+
+Paragraph 2:
+Electrophysiology in anterior cingulate cortex showed that experienced and observed evidence are both encoded and projected onto a shared belief axis, with a biased alignment toward self-experience. Population geometry and recurrent neural network modeling suggest this bias emerges from computations within ACC dynamics, providing a mechanistic account of why learning from others is systematically discounted.
+
+Selected works:
+
+Publication:
+Evidence accumulation from experience and observation in the cingulate cortex
+
+Authors:
+Chen R*, Radkani S*, Valluru N, Yoo SBM, Jazayeri M.
+
+Venue and year:
+Nature, 2026
+
+Summary:
+Demonstrates how ACC integrates experienced and observed evidence into a shared belief representation with a bias toward self-experience.
+
+Article URL:
+https://doi.org/10.1038/s41586-025-09885-0
+
+## Links
 
 Email:
 ruidong@mit.edu
+
+Google Scholar label:
+All Publications
+
+Google Scholar note:
+Scholar search
+
+Google Scholar URL:
+https://scholar.google.com/scholar?hl=en&q=%22Ruidong+Chen%22
 
 Zhihu label:
 Mon1st
