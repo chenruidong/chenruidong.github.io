@@ -5,26 +5,26 @@ Edit this file directly. Keep the section labels so I can map your revisions bac
 ## Site Meta
 
 Site title:
-Ruidong Chen | Neuroscience
+Ruidong Chen
 
 Meta description:
-Ruidong Chen studies how neural circuits learn from experience, observation, movement, and social inference.
+Ruidong Chen studies how neural circuits learn from experience and observation, to form flexible internal models.
 
 ## Hero
 
 Eyebrow:
-Systems neuroscience • learning • social inference
+Systems neuroscience • Reinforcement learning • Social inference
 
 Main title:
-Studying how brains learn from action, observation, and internal models.
+Studying how brains learn from action and observation.
 
 Intro paragraph:
-Ruidong Chen is a neuroscientist whose work connects circuit mechanisms, behavior, and theory across songbirds and primates. His research asks how brains generate prediction errors, organize behavior into flexible modules, and integrate evidence from self-experience with evidence learned by watching others.
+Ruidong Chen is a neuroscientist whose work connects circuit mechanisms, behavior, and theory across songbirds, parrots, and primates. His research asks how brains generate predictions, organize behavior into flexible modules, and integrate evidence from self-experience with evidence learned by watching others.
 
 Hero summary items:
 - Postdoctoral Fellow, Jazayeri Lab, MIT
-- B.Eng., Computer Science, University of Hong Kong
 - Ph.D., Neurobiology and Behavior, Cornell University
+- B.Eng., Computer Science, University of Hong Kong
 
 ## Bio
 
@@ -32,15 +32,15 @@ Section heading:
 From vocal learning in birds to social inference in primates.
 
 Paragraph 1:
-Ruidong received a B.Eng. in computer science from the University of Hong Kong and a Ph.D. in neurobiology and behavior from Cornell University. At Cornell, he studied the neural circuit mechanisms of song learning in zebra finches and related motor control questions in budgerigars.
+I received a B.Eng. in computer science from the University of Hong Kong and a Ph.D. in neurobiology and behavior from Cornell University. At Cornell, I studied the neural circuit mechanisms of song learning in zebra finches and related motor control questions in budgerigars.
 
 Paragraph 2:
-He is now a postdoctoral fellow at MIT, working with Mehrdad Jazayeri and affiliated with the Simons Center for the Social Brain. His current work focuses on the neural basis of social inference and observational learning in nonhuman primates.
+I am now a postdoctoral fellow at MIT, working with Mehrdad Jazayeri. My current work focuses on the neural basis of social inference and observational learning in nonhuman primates.
 
 Research focus list:
 - Reinforcement learning and prediction errors
 - Flexible organization of singing and movement
-- Evidence accumulation across self and other
+- Evidence accumulation across experience and observation
 - Population geometry and neural computation
 
 ## Main Research Areas
@@ -54,7 +54,7 @@ Title:
 Reinforcement learning by intrinsic motivation
 
 Paragraph 1:
-Graduate work in the songbird system examined how dopaminergic prediction errors support vocal learning. Building on prior evidence that VTA neurons projecting to Area X encode performance prediction errors during singing, this line of work identified ventral pallidum as a critical forebrain source of those signals. Using lesion, retrograde viral tracing, microstimulation, and in vivo single-unit recording, Ruidong showed that ventral pallidum is required for song learning, receives input from song timing and error-related regions, and sends diverse performance error signals to dopaminergic midbrain.
+Graduate work in the songbird system examined how dopaminergic prediction errors support vocal learning. Building on prior evidence that VTA neurons projecting to Area X encode performance prediction errors during singing, this line of work identified ventral pallidum as a critical source of those signals. Using lesion, retrograde viral tracing, microstimulation, and in vivo single-unit recording, I showed that ventral pallidum is required for song learning, receives input from song timing and error-related regions, and sends diverse performance error signals to dopaminergic midbrain.
 
 Paragraph 2:
 These findings motivated an actor-critic framework for song learning that links multiple brain regions into a circuit-level account of how intrinsic performance errors drive learning.
@@ -65,7 +65,7 @@ Title:
 Organization of singing and moving modules in songbird brain and behavior
 
 Paragraph 1:
-A second graduate project asked how specialized behavioral modules are organized and coordinated. In zebra finches, singing and locomotion can be studied together, making it possible to compare reinforcement and timing across distinct behaviors. Behavioral work showed that the same noise stimulus can negatively reinforce vocal variants while remaining attractive in a place-preference task, arguing against a single general aversive reinforcer.
+A second graduate project asked how specialized behavioral modules are organized and coordinated. In zebra finches, singing and locomotion can be studied together, making it possible to compare reinforcement and timing across distinct behaviors. Behavioral work showed that the same broadband noise stimulus can negatively reinforce vocal variants while positively reinforce locomotion in a place-preference task, arguing multiple intrinsic motivations.
 
 Paragraph 2:
 Neural analyses from ventral pallidum and dopaminergic midbrain further showed that timing signals can switch between song and movement on sub-second timescales. The result is a view of basal ganglia and midbrain circuits as flexibly gated across behavioral contexts rather than fixed to one function.
@@ -76,10 +76,10 @@ Title:
 Evidence integration between self-experience and observation in the cingulate cortex
 
 Paragraph 1:
-Postdoctoral work asks how observational learning interacts with evidence accumulation in the primate brain. In a two-player task, monkeys alternated between acting and observing while both accumulated evidence toward reward. Behavior in humans and monkeys revealed a reliable asymmetry: observation is less effective than direct experience even when visual information is matched.
+We asked how observational learning interacts with evidence accumulation in the primate brain. In a two-player task, subjects alternated between acting and observing while both accumulated evidence. Behavior in humans and monkeys revealed a reliable asymmetry: observation is less effective than direct experience even when visual information and motivational state is matched.
 
 Paragraph 2:
-Electrophysiology in anterior cingulate cortex showed that experienced and observed evidence are both encoded and projected onto a shared belief axis, with a bias toward self-experience. Population geometry and recurrent neural network modeling suggest this bias emerges from computations within ACC dynamics, providing a mechanistic account of why learning from others is systematically discounted.
+Electrophysiology in anterior cingulate cortex showed that experienced and observed evidence are both encoded and projected onto a shared belief axis, with a biased alignment toward self-experience. Population geometry and recurrent neural network modeling suggest this bias emerges from computations within ACC dynamics, providing a mechanistic account of why learning from others is systematically discounted.
 
 ## Publications
 
@@ -92,7 +92,7 @@ Group title:
 Evidence integration and social inference
 
 Group description:
-Primate observational learning, cingulate cortex, and unified belief representations.
+Primate observational learning, anterior cingulate cortex.
 
 Publication:
 Evidence accumulation from experience and observation in the cingulate cortex
@@ -115,7 +115,7 @@ Group title:
 Reinforcement learning and performance prediction error
 
 Group description:
-Songbird learning, dopaminergic error signals, and circuit-level theory.
+Songbird learning, dopaminergic error signals, ventral pallidum.
 
 Publication:
 Actor-critic reinforcement learning in the songbird
@@ -127,7 +127,7 @@ Venue and year:
 Current Opinion in Neurobiology, 2020
 
 Summary:
-Proposes a circuit-level actor-critic account of song learning that integrates basal ganglia, ventral pallidum, and dopaminergic midbrain.
+Proposes a circuit-level actor-critic account of song learning.
 
 Article URL:
 https://linkinghub.elsevier.com/retrieve/pii/S0959438820301173
@@ -157,7 +157,7 @@ Venue and year:
 Science, 2016
 
 Summary:
-Establishes that a subgroup of VTA neurons encodes performance prediction error during singing.
+Establishes that basal ganglia projecting dopamine neurons encodes performance error during singing.
 
 Article URL:
 https://www.science.org/doi/10.1126/science.aah6837
@@ -165,7 +165,7 @@ https://www.science.org/doi/10.1126/science.aah6837
 ### Group 3
 
 Group title:
-Behavioral modules: singing and movement
+Behavioral modules: separate motivational drive and a temporal multiplexing neural basis for singing and movement
 
 Group description:
 Flexible gating between specialized behaviors in songbird circuits and behavior.
@@ -180,7 +180,7 @@ Venue and year:
 Journal of Neurophysiology, 2021
 
 Summary:
-Shows that neural timing can switch between song and movement at sub-second timescales.
+Shows that neural timing can switch between song and movement at sub-second timescales depending on behavioral state.
 
 Article URL:
 https://journals.physiology.org/doi/10.1152/jn.00110.2021
@@ -218,10 +218,10 @@ Zhihu URL:
 https://www.zhihu.com/people/mon1st
 
 Xiaoyuzhou label:
-Two Coins
+Two of Coins
 
 Xiaoyuzhou note:
-Podcast presence
+Podcast
 
 Xiaoyuzhou URL:
 https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
@@ -235,15 +235,6 @@ Research identity
 ORCID URL:
 https://orcid.org/0000-0003-0163-979X
 
-MIT / SCSB label:
-Profile page
-
-MIT / SCSB note:
-Current affiliation
-
-MIT / SCSB URL:
-https://scsb.mit.edu/ruidong-chen-ph-d/
-
 McGovern Institute label:
 Jazayeri Lab
 
@@ -256,4 +247,4 @@ https://mcgovern.mit.edu/tile/ruidong-chen/
 ## Footer
 
 Footer text:
-Minimal static site designed for fast hosting and easy maintenance.
+Made with AI, checked by me.
