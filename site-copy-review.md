@@ -293,6 +293,18 @@ Podcast
 Xiaoyuzhou URL:
 https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 
+Apple Podcasts label:
+Apple Podcasts
+
+Apple Podcasts value:
+Two of Coins
+
+Apple Podcasts note:
+Podcast
+
+Apple Podcasts URL:
+https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
+
 ORCID label:
 ORCID
 
