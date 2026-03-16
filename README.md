@@ -7,6 +7,7 @@ Static personal site prepared for GitHub Pages.
 - `index.html`: main page
 - `styles.css`: site styles
 - `site-copy-review.md`: editable copy deck for proofreading
+- `site-copy-review-zh.md`: editable Chinese copy deck for proofreading
 
 ## Local preview
 

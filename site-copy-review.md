@@ -10,6 +10,19 @@ Ruidong Chen
 Meta description:
 Ruidong Chen studies how neural circuits learn from experience and observation, to form flexible internal models.
 
+## Header
+
+Wordmark:
+Ruidong Chen
+
+Navigation:
+- Research
+- Links
+
+Language toggle:
+- zh button: 中
+- en button: EN
+
 ## Hero
 
 Eyebrow:
@@ -21,19 +34,58 @@ Bio
 Intro paragraph:
 Ruidong Chen is a neuroscientist whose work connects circuit mechanisms, behavior, and theory across songbirds, parrots, and primates. His research asks how brains generate predictions, organize behavior into flexible modules, and integrate evidence from self-experience with evidence learned by watching others.
 
+Primary button:
+View selected works
+
+Secondary button:
+Email
+
 Hero summary items:
 - Postdoctoral Fellow, Jazayeri Lab, MIT
 - Ph.D., Neurobiology and Behavior, Cornell University
 - B.Eng., Computer Science, University of Hong Kong
 
-
-
 ## Main Research Areas
+
+Section kicker:
+Main Research Areas
 
 Section heading:
 Selected works.
 
 ### Area 1
+
+Title:
+Evidence integration between self-experience and observation in the cingulate cortex
+
+Paragraph 1:
+We asked how observational learning interacts with evidence accumulation in the primate brain. In a two-player task, subjects alternated between acting and observing while both accumulated evidence. Behavior in humans and monkeys revealed a reliable asymmetry: observation is less effective than direct experience even when visual information and motivational state is matched.
+
+Paragraph 2:
+Electrophysiology in anterior cingulate cortex showed that experienced and observed evidence are both encoded and projected onto a shared belief axis, with a biased alignment toward self-experience. Population geometry and recurrent neural network modeling suggest this bias emerges from computations within ACC dynamics, providing a mechanistic account of why learning from others is systematically discounted.
+
+Selected works label:
+Selected Works
+
+Publication:
+Evidence accumulation from experience and observation in the cingulate cortex
+
+Authors:
+Chen R*, Radkani S*, Valluru N, Yoo SBM, Jazayeri M.
+
+Venue and year:
+Nature, 2026
+
+Summary:
+Demonstrates how ACC integrates experienced and observed evidence into a shared belief representation with a bias toward self-experience.
+
+Article label:
+Article
+
+Article URL:
+https://doi.org/10.1038/s41586-025-09885-0
+
+### Area 2
 
 Title:
 Reinforcement learning by intrinsic motivation
@@ -44,7 +96,8 @@ My work in the songbird system examined how dopaminergic prediction errors suppo
 Paragraph 2:
 These findings motivated an actor-critic framework for song learning that links multiple brain regions into a circuit-level account of how intrinsic performance errors drive learning.
 
-Selected works:
+Selected works label:
+Selected Works
 
 Publication:
 Actor-critic reinforcement learning in the songbird
@@ -57,6 +110,9 @@ Current Opinion in Neurobiology, 2020
 
 Summary:
 Proposes a circuit-level actor-critic account of song learning.
+
+Article label:
+Article
 
 Article URL:
 https://linkinghub.elsevier.com/retrieve/pii/S0959438820301173
@@ -73,6 +129,9 @@ Neuron, 2019
 Summary:
 Identifies ventral pallidum as a major source of performance error signaling to dopaminergic midbrain.
 
+Article label:
+Article
+
 Article URL:
 https://linkinghub.elsevier.com/retrieve/pii/S0896627319303952
 
@@ -88,10 +147,13 @@ Science, 2016
 Summary:
 Establishes that basal ganglia projecting dopamine neurons encodes performance error during singing.
 
+Article label:
+Article
+
 Article URL:
 https://www.science.org/doi/10.1126/science.aah6837
 
-### Area 2
+### Area 3
 
 Title:
 Organization of singing and moving modules in songbird brain and behavior
@@ -102,7 +164,8 @@ A second graduate project asked how specialized behavioral modules are organized
 Paragraph 2:
 Neural analyses from ventral pallidum and dopaminergic midbrain further showed that timing signals can switch between song and movement on sub-second timescales. The result is a view of basal ganglia and midbrain circuits as flexibly gated across behavioral contexts rather than fixed to one function.
 
-Selected works:
+Selected works label:
+Selected Works
 
 Publication:
 Movement signaling in ventral pallidum and dopaminergic midbrain is gated by behavioral state in singing birds
@@ -115,6 +178,9 @@ Journal of Neurophysiology, 2021
 
 Summary:
 Shows that neural timing can switch between song and movement at sub-second timescales depending on behavioral state.
+
+Article label:
+Article
 
 Article URL:
 https://journals.physiology.org/doi/10.1152/jn.00110.2021
@@ -131,46 +197,33 @@ Scientific Reports, 2018
 Summary:
 Shows that the same noise can be appetitive in place preference yet aversive in vocal learning, revealing distinct reinforcement systems.
 
+Article label:
+Article
+
 Article URL:
 https://www.nature.com/articles/s41598-018-25112-5
 
-### Area 3
-
-Title:
-Evidence integration between self-experience and observation in the cingulate cortex
-
-Paragraph 1:
-We asked how observational learning interacts with evidence accumulation in the primate brain. In a two-player task, subjects alternated between acting and observing while both accumulated evidence. Behavior in humans and monkeys revealed a reliable asymmetry: observation is less effective than direct experience even when visual information and motivational state is matched.
-
-Paragraph 2:
-Electrophysiology in anterior cingulate cortex showed that experienced and observed evidence are both encoded and projected onto a shared belief axis, with a biased alignment toward self-experience. Population geometry and recurrent neural network modeling suggest this bias emerges from computations within ACC dynamics, providing a mechanistic account of why learning from others is systematically discounted.
-
-Selected works:
-
-Publication:
-Evidence accumulation from experience and observation in the cingulate cortex
-
-Authors:
-Chen R*, Radkani S*, Valluru N, Yoo SBM, Jazayeri M.
-
-Venue and year:
-Nature, 2026
-
-Summary:
-Demonstrates how ACC integrates experienced and observed evidence into a shared belief representation with a bias toward self-experience.
-
-Article URL:
-https://doi.org/10.1038/s41586-025-09885-0
-
 ## Links
+
+Section kicker:
+Links
 
 Section heading:
 Links.
 
-Email:
+Email label:
+Email
+
+Email value:
 ruidong@mit.edu
 
+Email note:
+Direct contact
+
 Google Scholar label:
+Google Scholar
+
+Google Scholar value:
 All Publications
 
 Google Scholar note:
@@ -180,6 +233,9 @@ Google Scholar URL:
 https://scholar.google.com/citations?user=omTfD3gAAAAJ&hl=en&oi=ao
 
 X label:
+X
+
+X value:
 @ruidongchen
 
 X note:
@@ -189,6 +245,9 @@ X URL:
 https://x.com/ruidongchen
 
 Bluesky label:
+Bluesky
+
+Bluesky value:
 @ruidong.bsky.social
 
 Bluesky note:
@@ -198,6 +257,9 @@ Bluesky URL:
 https://bsky.app/profile/ruidong.bsky.social
 
 LinkedIn label:
+LinkedIn
+
+LinkedIn value:
 Ruidong Chen
 
 LinkedIn note:
@@ -207,6 +269,9 @@ LinkedIn URL:
 https://www.linkedin.com/in/ruidong-chen-b5174733/
 
 Zhihu label:
+Zhihu
+
+Zhihu value:
 Mon1st
 
 Zhihu note:
@@ -216,6 +281,9 @@ Zhihu URL:
 https://www.zhihu.com/people/mon1st
 
 Xiaoyuzhou label:
+Xiaoyuzhou
+
+Xiaoyuzhou value:
 Two of Coins
 
 Xiaoyuzhou note:
@@ -225,6 +293,9 @@ Xiaoyuzhou URL:
 https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 
 ORCID label:
+ORCID
+
+ORCID value:
 0000-0003-0163-979X
 
 ORCID note:
@@ -234,6 +305,9 @@ ORCID URL:
 https://orcid.org/0000-0003-0163-979X
 
 McGovern Institute label:
+McGovern Institute
+
+McGovern Institute value:
 Jazayeri Lab
 
 McGovern Institute note:
