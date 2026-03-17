@@ -66,6 +66,14 @@ html[data-lang="zh"] .news-link.lang-zh {
   display: inline-flex;
 }
 
+.work-link.lang-zh {
+  display: none;
+}
+
+html[data-lang="zh"] .work-link.lang-zh {
+  display: inline-flex;
+}
+
 .page-shell {
   width: min(calc(100% - 2rem), var(--max));
   margin: 0 auto;

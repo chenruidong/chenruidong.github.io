@@ -91,6 +91,12 @@ Read the paper
 Link URL:
 https://www.nature.com/articles/s41586-025-09885-0
 
+Second link label:
+Read news article
+
+Second link URL:
+https://mcgovern.mit.edu/2026/01/07/learning-from-each-other/
+
 Item:
 2025.05.04
 

@@ -91,6 +91,12 @@ https://news.sciencenet.cn/htmlnews/2026/2/560639.shtm
 链接：
 https://www.nature.com/articles/s41586-025-09885-0
 
+第二个链接按钮：
+查看新闻报道
+
+第二个链接：
+https://mcgovern.mit.edu/2026/01/07/learning-from-each-other/
+
 条目：
 2025.05.04
 
@@ -148,6 +154,12 @@ Nature, 2026
 
 文章链接：
 https://doi.org/10.1038/s41586-025-09885-0
+
+简介文章按钮：
+文章简介：为什么百闻不如一见？
+
+简介文章链接：
+https://zhuanlan.zhihu.com/p/1992203318399898641
 
 ### 项目 2
 
