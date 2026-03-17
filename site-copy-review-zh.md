@@ -321,7 +321,7 @@ Bluesky 链接：
 https://bsky.app/profile/ruidong.bsky.social
 
 LinkedIn 标签：
-LinkedIn
+领英
 
 LinkedIn 内容：
 陈睿东
@@ -333,10 +333,10 @@ LinkedIn 链接：
 https://www.linkedin.com/in/ruidong-chen-b5174733/
 
 知乎标签：
-Zhihu
+知乎
 
 知乎内容：
-Mon1st
+一元论者
 
 知乎说明：
 长文写作
@@ -357,7 +357,7 @@ https://www.zhihu.com/people/mon1st
 https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 
 Apple Podcasts 标签：
-Apple Podcasts
+苹果播客
 
 Apple Podcasts 内容：
 两块钱
@@ -381,7 +381,7 @@ ORCID 链接：
 https://orcid.org/0000-0003-0163-979X
 
 McGovern 研究所标签：
-McGovern 研究所
+麦戈文研究所
 
 McGovern 研究所内容：
 Jazayeri 实验室
