@@ -8,7 +8,7 @@ Site title:
 Ruidong Chen
 
 Meta description:
-Ruidong Chen studies how neural circuits learn from experience and observation, to form flexible internal models.
+Ruidong Chen studies how neural circuits generate flexible behavior from minimal experience and observation.
 
 ## Header
 
@@ -16,10 +16,12 @@ Wordmark:
 Ruidong Chen
 
 Navigation:
-- Bio
+- Cognitive Flexibility
 - News
+- Talks
 - Research
 - Links
+- CV
 
 Language toggle:
 - zh button: 中
@@ -31,21 +33,19 @@ Eyebrow:
 Systems & Computational Neuroscience
 
 Main title:
-Bio
+Neuroscience of flexible cognition
 
 Intro paragraph:
-Ruidong Chen is a neuroscientist whose work connects circuit mechanisms, behavior, and theory across songbirds, parrots, and primates. His research asks how brains generate predictions, organize behavior into flexible modules, and integrate evidence from self-experience with evidence learned by watching others.
+Cognitive flexibility allows primates to adapt to new situations after minimal experience. A monkey can learn to rinse gritty sweet potato in water by observing another individual. We do not have a mechanistic account for how this remarkable feat is achieved in the brain. My long-term vision is to explain how neural circuits generate flexible behavior by observing, manipulating, and recreating computational elements in the primate brain.
 
 Primary button:
-View selected works
+View research
 
 Secondary button:
-Email
+Download CV
 
-Hero summary items:
-- Research Scientist, Jazayeri Lab, MIT
-- Ph.D., Neurobiology and Behavior, Cornell University
-- B.Eng., Computer Science, University of Hong Kong
+Illustration:
+Two monkeys playing chess, used as an icon for cognitive flexibility
 
 ## News
 
@@ -92,10 +92,10 @@ Link URL:
 https://www.nature.com/articles/s41586-025-09885-0
 
 Second link label:
-Read news article
+Read more
 
 Second link URL:
-https://mcgovern.mit.edu/2026/01/07/learning-from-each-other/
+#research-observation
 
 Item:
 2025.05.04
@@ -114,6 +114,41 @@ Chinese link label:
 
 Chinese link URL:
 https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
+
+## Talks
+
+Section kicker:
+Public Talks
+
+Section heading:
+Talks and interviews
+
+Poster label:
+Featured talk
+
+Poster button:
+Play talk
+
+Talk kicker:
+Featured Video
+
+Talk title:
+Neureport 85 | Neural foundations of learning from experience and observation
+
+Talk summary:
+A public-facing conversation on how brains combine direct experience with observed evidence, and what that reveals about learning, belief, and social cognition.
+
+Primary talk button:
+Play here
+
+Secondary talk button:
+Watch on YouTube
+
+Metadata item:
+Source: iBrainTalk / YouTube
+
+Talk URL:
+https://www.youtube.com/watch?v=y4RyTX0tq8s
 
 ## Main Research Areas
 
@@ -154,6 +189,12 @@ Article
 
 Article URL:
 https://doi.org/10.1038/s41586-025-09885-0
+
+News article label:
+News article
+
+News article URL:
+https://mcgovern.mit.edu/2026/01/07/learning-from-each-other/
 
 ### Area 2
 
@@ -275,65 +316,41 @@ https://www.nature.com/articles/s41598-018-25112-5
 
 ## Links
 
-Section kicker:
-Links
-
-Section heading:
-Links
+Layout note:
+A wrapping row of icon-only links with no visible text or section title.
 
 Email label:
 Email
 
-Email value:
-ruidong@mit.edu
+Email URL:
+mailto:ruidong@mit.edu
 
-Email note:
-Direct contact
+RSS label:
+RSS
 
-Google Scholar label:
-Google Scholar
+RSS URL:
+https://feed.xyzfm.space/f8hkmwvejlj8
 
-Google Scholar value:
-All Publications
+GitHub label:
+GitHub
 
-Google Scholar note:
-Publication list
-
-Google Scholar URL:
-https://scholar.google.com/citations?user=omTfD3gAAAAJ&hl=en&oi=ao
+GitHub URL:
+https://github.com/chenruidong/
 
 X label:
 X
 
-X value:
-@ruidongchen
-
-X note:
-Short updates
-
 X URL:
 https://x.com/ruidongchen
 
-Bluesky label:
+Bsky label:
 Bluesky
 
-Bluesky value:
-@ruidong.bsky.social
-
-Bluesky note:
-Public posts
-
-Bluesky URL:
+Bsky URL:
 https://bsky.app/profile/ruidong.bsky.social
 
 LinkedIn label:
 LinkedIn
-
-LinkedIn value:
-Ruidong Chen
-
-LinkedIn note:
-Professional profile
 
 LinkedIn URL:
 https://www.linkedin.com/in/ruidong-chen-b5174733/
@@ -341,23 +358,11 @@ https://www.linkedin.com/in/ruidong-chen-b5174733/
 Zhihu label:
 Zhihu
 
-Zhihu value:
-Mon1st
-
-Zhihu note:
-Long-form public writing
-
 Zhihu URL:
 https://www.zhihu.com/people/mon1st
 
 Xiaoyuzhou label:
 Xiaoyuzhou
-
-Xiaoyuzhou value:
-Two of Coins
-
-Xiaoyuzhou note:
-Podcast
 
 Xiaoyuzhou URL:
 https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
@@ -365,38 +370,52 @@ https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 Apple Podcasts label:
 Apple Podcasts
 
-Apple Podcasts value:
-Two of Coins
-
-Apple Podcasts note:
-Podcast
-
 Apple Podcasts URL:
 https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
 
-ORCID label:
-ORCID
+## CV
 
-ORCID value:
-0000-0003-0163-979X
+Section kicker:
+Background
 
-ORCID note:
-Research identity
+Section heading:
+CV
 
-ORCID URL:
-https://orcid.org/0000-0003-0163-979X
+Download block title:
+Download CV
 
-McGovern Institute label:
-McGovern Institute
+Download block text:
+Full academic CV including appointments, publications, talks, and service.
 
-McGovern Institute value:
-Jazayeri Lab
+Download button:
+Download PDF
 
-McGovern Institute note:
-Lab affiliation
+Current appointment label:
+Current appointment
 
-McGovern Institute URL:
-https://mcgovern.mit.edu/tile/ruidong-chen/
+Current appointment title:
+Research Scientist, Jazayeri Lab, MIT
+
+Current appointment note:
+McGovern Institute for Brain Research
+
+Doctoral training label:
+Doctoral training
+
+Doctoral training title:
+Ph.D., Neurobiology and Behavior, Cornell University
+
+Doctoral training note:
+Circuit, behavior, and theory across animal models.
+
+Undergraduate training label:
+Undergraduate training
+
+Undergraduate training title:
+B.Eng., Computer Science, University of Hong Kong
+
+Undergraduate training note:
+Computational foundations for systems neuroscience.
 
 ## Footer
 

@@ -8,7 +8,7 @@
 陈睿东
 
 元描述：
-陈睿东研究神经回路如何从经验与观察中学习，并形成灵活的内部模型。
+陈睿东研究神经回路如何通过极少经验与观察产生灵活行为。
 
 ## 页眉
 
@@ -16,10 +16,12 @@
 陈睿东
 
 导航：
-- 简介
+- 认知灵活性
 - 动态
+- 演讲
 - 研究
 - 链接
+- 履历
 
 语言切换：
 - 中文按钮：中
@@ -31,21 +33,19 @@
 系统与计算神经科学
 
 主标题：
-简介
+灵活认知的神经科学
 
 简介段落：
-陈睿东是神经生物学博士，其研究跨越鸣禽、鹦鹉和灵长类动物，探索神经回路机制、行为与理论。他关注大脑如何生成预测、如何将复杂行为分解成灵活的模块，以及如何将亲身经验与观察他人所获得的证据整合起来。
+认知灵活性使灵长类能够在仅有极少经验的情况下适应全新的情境。猴子可以通过观察另一个个体，学会把沾有砂砾的甜薯放到水里清洗。我们仍然缺乏一个机制性的解释，说明大脑究竟如何实现这种非凡能力。我的长期愿景是通过在灵长类大脑中观察、操控并重建其计算要素，解释神经回路如何产生灵活行为。
 
 主按钮：
-查看代表作
+查看研究
 
 次按钮：
-邮箱
+下载简历
 
-首屏摘要条目：
-- 麻省理工学院麦戈文脑科学研究所 研究科学家
-- 康奈尔大学神经生物学与行为学博士
-- 香港大学计算机科学工学学士
+插图说明：
+两只猴子下棋的插图，用作认知灵活性的图标
 
 ## 动态
 
@@ -92,10 +92,10 @@ https://news.sciencenet.cn/htmlnews/2026/2/560639.shtm
 https://www.nature.com/articles/s41586-025-09885-0
 
 第二个链接按钮：
-查看新闻报道
+了解更多
 
 第二个链接：
-https://mcgovern.mit.edu/2026/01/07/learning-from-each-other/
+#research-observation
 
 条目：
 2025.05.04
@@ -115,6 +115,41 @@ https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
 中文链接：
 https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 
+## 演讲
+
+分节肩题：
+公开演讲
+
+分节标题：
+演讲与访谈
+
+海报标签：
+精选演讲
+
+海报按钮：
+播放演讲
+
+视频肩题：
+精选视频
+
+视频标题：
+Neureport85期｜从经验和观察中学习的神经基础
+
+视频简介：
+一次面向公众的访谈，讨论大脑如何结合亲身经验与观察证据，以及这对学习、信念与社会认知意味着什么。
+
+主按钮：
+在此播放
+
+次按钮：
+在 YouTube 观看
+
+信息条目：
+来源：iBrainTalk / YouTube
+
+视频链接：
+https://www.youtube.com/watch?v=y4RyTX0tq8s
+
 ## 主要研究
 
 分节肩题：
@@ -129,7 +164,7 @@ https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 来自经验与观察的证据如何整合成统一的信念？
 
 段落 1：
-我们研究观察学习如何与灵长类大脑中的证据积累相互作用。在一个双人任务中，受试者轮流执行和观察，同时双方都在积累证据。人类和猴子的行为数据显示出稳定的不对称性：即使视觉信息和动机状态匹配，观察学习的效率仍低于直接经验。
+我们研究灵长类大脑中观察学习如何与证据积累相互作用。两个玩家轮流执行和观察，同时双方都在积累证据。人类和猴子的行为数据表明观察和经验并不对称：即使视觉信息和动机状态匹配，观察学习的效率仍低于直接经验。
 
 段落 2：
 前扣带皮层的电生理记录显示，亲身经验和观察所得的证据都会被编码，并投射到共享的信念轴上，但其对齐方式偏向自我经验。群体几何分析和循环神经网络建模进一步表明，这种偏差来源于 ACC 内部动力学中的计算机制，为我们为何会系统性低估从他人处学习提供了机制解释。
@@ -154,6 +189,12 @@ Nature, 2026
 
 文章链接：
 https://doi.org/10.1038/s41586-025-09885-0
+
+新闻报道按钮：
+新闻报道
+
+新闻报道链接：
+https://mcgovern.mit.edu/2026/01/07/learning-from-each-other/
 
 简介文章按钮：
 文章简介：为什么百闻不如一见？
@@ -281,65 +322,41 @@ https://www.nature.com/articles/s41598-018-25112-5
 
 ## 链接
 
-分节肩题：
-链接
-
-分节标题：
-链接
+版式说明：
+可自动换行的纯图标链接，不显示文字，也不显示分节标题。
 
 邮箱标签：
 邮箱
 
-邮箱内容：
-ruidong@mit.edu
+邮箱链接：
+mailto:ruidong@mit.edu
 
-邮箱说明：
-直接联系
+RSS 标签：
+RSS
 
-Google Scholar 标签：
-Google Scholar
+RSS 链接：
+https://feed.xyzfm.space/f8hkmwvejlj8
 
-Google Scholar 内容：
-全部论文
+GitHub 标签：
+GitHub
 
-Google Scholar 说明：
-论文列表
-
-Google Scholar 链接：
-https://scholar.google.com/citations?user=omTfD3gAAAAJ&hl=en&oi=ao
+GitHub 链接：
+https://github.com/chenruidong/
 
 X 标签：
 X
 
-X 内容：
-@ruidongchen
-
-X 说明：
-短动态
-
 X 链接：
 https://x.com/ruidongchen
 
-Bluesky 标签：
+Bsky 标签：
 Bluesky
 
-Bluesky 内容：
-@ruidong.bsky.social
-
-Bluesky 说明：
-公开动态
-
-Bluesky 链接：
+Bsky 链接：
 https://bsky.app/profile/ruidong.bsky.social
 
 LinkedIn 标签：
 领英
-
-LinkedIn 内容：
-陈睿东
-
-LinkedIn 说明：
-职业档案
 
 LinkedIn 链接：
 https://www.linkedin.com/in/ruidong-chen-b5174733/
@@ -347,23 +364,11 @@ https://www.linkedin.com/in/ruidong-chen-b5174733/
 知乎标签：
 知乎
 
-知乎内容：
-一元论者
-
-知乎说明：
-长文写作
-
 知乎链接：
 https://www.zhihu.com/people/mon1st
 
 小宇宙标签：
 小宇宙
-
-小宇宙内容：
-两块钱
-
-小宇宙说明：
-播客
 
 小宇宙链接：
 https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
@@ -371,38 +376,52 @@ https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
 Apple Podcasts 标签：
 苹果播客
 
-Apple Podcasts 内容：
-两块钱
-
-Apple Podcasts 说明：
-播客
-
 Apple Podcasts 链接：
 https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
 
-ORCID 标签：
-ORCID
+## 履历
 
-ORCID 内容：
-0000-0003-0163-979X
+分节肩题：
+背景
 
-ORCID 说明：
-学术身份
+分节标题：
+履历
 
-ORCID 链接：
-https://orcid.org/0000-0003-0163-979X
+下载模块标题：
+下载履历
 
-McGovern 研究所标签：
-麦戈文研究所
+下载模块文案：
+完整学术履历，包括任职、论文、演讲与学术服务。
 
-McGovern 研究所内容：
-Jazayeri 实验室
+下载按钮：
+下载 PDF
 
-McGovern 研究所说明：
-实验室主页
+当前任职标签：
+当前任职
 
-McGovern 研究所链接：
-https://mcgovern.mit.edu/tile/ruidong-chen/
+当前任职标题：
+麻省理工学院 Jazayeri 实验室研究科学家
+
+当前任职说明：
+麦戈文脑科学研究所
+
+博士训练标签：
+博士训练
+
+博士训练标题：
+康奈尔大学神经生物学与行为学博士
+
+博士训练说明：
+围绕神经回路、行为与理论开展跨模型研究。
+
+本科训练标签：
+本科训练
+
+本科训练标题：
+香港大学计算机科学工学学士
+
+本科训练说明：
+为系统神经科学提供计算方法基础。
 
 ## 页脚
 
