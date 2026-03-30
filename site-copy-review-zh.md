@@ -13,417 +13,382 @@
 ## 页眉
 
 站点标识：
-陈睿东
+无（已移除）
 
 导航：
 - 认知灵活性
 - 动态
-- 演讲
 - 研究
-- 链接
 - 履历
+
+动态路由：
+#news（站内标签页视图）
+
+履历路由：
+#cv（站内视图）
+
+履历 PDF 文件：
+downloads/Chen-CV-2026.pdf
 
 语言切换：
 - 中文按钮：中
 - 英文按钮：EN
 
-## 首屏
+页眉社交图标（桌面端顺序）：
+- Email
+- GitHub
+- X
+- Bluesky
+- LinkedIn
+- Zhihu
+- Xiaoyuzhou
+- Apple Podcasts
+- RSS
+
+位置：
+位于单行页眉中，处于文字导航右侧，语言切换位于最右侧。
+
+小屏行为：
+仅在导航空间真正紧张时才开始隐藏图标，并按从右到左逐个移除（先隐藏 RSS），优先保障导航始终单行；极窄屏下会最长保留 Email 与 X。
+
+## 履历视图
+
+分节肩题：
+履历
+
+分节说明：
+(RC：删除，不需要简介)
+
+加载文案：
+正在加载履历预览...
+
+主按钮文案：
+在新标签页打开
+
+次按钮文案：
+下载 PDF
+
+## 首页视图
+
+### 首屏
+
+分节 id：
+cognitive-flexibility
 
 肩题：
-系统与计算神经科学
-
-主标题：
 灵活认知的神经科学
 
 简介段落：
-认知灵活性使灵长类能够在仅有极少经验的情况下适应全新的情境。猴子可以通过观察另一个个体，学会把沾有砂砾的甜薯放到水里清洗。我们仍然缺乏一个机制性的解释，说明大脑究竟如何实现这种非凡能力。我的长期愿景是通过在灵长类大脑中观察、操控并重建其计算要素，解释神经回路如何产生灵活行为。
+人类和猴子等灵长类能够快速适应新情况，关键在于从少量样本中学习可泛化的规则。猴子可以通过观察同伴学会清洗沾砂的甜薯；人类也能在短时间尝试后掌握新游戏，而这对 AI 程序仍很困难。大脑如何实现这种灵活认知？我们缺乏一个机制层面的解释。我的长期愿景是通过在灵长类大脑中观察、操控并重建其计算要素，来解释神经回路如何产生灵活行为。
 
-主按钮：
-查看研究
+### 动态预览
 
-次按钮：
-下载简历
-
-插图说明：
-两只猴子下棋的插图，用作认知灵活性的图标
-
-## 动态
+分节 id：
+news-preview
 
 分节肩题：
 动态
 
-分节标题：
-动态
-
-条目：
+条目 1 日期：
 2026.07.18
 
-公告：
+条目 1 公告：
 我将共同主持 Neurobiology of Cognition GRS，欢迎申请参加！
 
-链接按钮：
+条目 1 链接按钮：
 会议信息
 
-链接：
+条目 1 链接：
 https://www.grc.org/neurobiology-of-cognition-grs-conference/2026
 
-条目：
+条目 2 日期：
 2026.02.28
 
-公告：
+条目 2 公告：
 我接受了科学网的采访。
 
-链接按钮：
+条目 2 链接按钮：
 查看采访
 
-链接：
+条目 2 链接：
 https://news.sciencenet.cn/htmlnews/2026/2/560639.shtm
 
-条目：
-2026.01.07
+条目 3 日期标签：
+...
 
-公告：
-我的第一篇博士后论文发表于 Nature。
+条目 3 链接按钮：
+查看更多
 
-链接按钮：
-查看论文
+条目 3 链接：
+#news
 
-链接：
-https://www.nature.com/articles/s41586-025-09885-0
-
-第二个链接按钮：
-了解更多
-
-第二个链接：
-#research-observation
-
-条目：
-2025.05.04
-
-公告：
-我和智子一起开始了一档新播客。
-
-英文链接按钮：
-Listen on Apple Podcasts
-
-英文链接：
-https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
-
-中文链接按钮：
-在小宇宙收听
-
-中文链接：
-https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
-
-## 演讲
+### 研究预览
 
 分节肩题：
-公开演讲
+研究
 
-分节标题：
-演讲与访谈
+方向 1 标签：
+经验与观察
 
-海报标签：
-精选演讲
+方向 1 论文信息：
+Nature / 2026
 
-海报按钮：
-播放演讲
+方向 1 论文标题：
+Evidence accumulation from experience and observation in the cingulate cortex
 
-视频肩题：
-精选视频
+方向 1 论文 PDF：
+assets/papers/chen_nature_2026.pdf
 
-视频标题：
-Neureport85期｜从经验和观察中学习的神经基础
+方向 2 标签：
+鸣唱学习与内在动机
 
-视频简介：
-一次面向公众的访谈，讨论大脑如何结合亲身经验与观察证据，以及这对学习、信念与社会认知意味着什么。
+方向 2 论文 1 信息：
+Current Opinion in Neurobiology / 2020
 
-主按钮：
-在此播放
+方向 2 论文 1 标题：
+Actor-critic reinforcement learning in the songbird
 
-次按钮：
+方向 2 论文 1 PDF：
+assets/papers/chen_current_opinion_in_neurobiology_2020.pdf
+
+方向 2 论文 2 信息：
+Neuron / 2019
+
+方向 2 论文 2 标题：
+Songbird Ventral Pallidum Sends Diverse Performance Error Signals to Dopaminergic Midbrain
+
+方向 2 论文 2 PDF：
+assets/papers/chen_neuron_2019.pdf
+
+方向 2 论文 3 信息：
+Science / 2016
+
+方向 2 论文 3 标题：
+Dopamine neurons encode performance error in singing birds
+
+方向 2 论文 3 PDF：
+assets/papers/gadagkar_science_2016.pdf
+
+方向 3 标签：
+鸣唱与运动模块
+
+方向 3 论文 1 信息：
+Journal of Neurophysiology / 2021
+
+方向 3 论文 1 标题：
+Movement signaling in ventral pallidum and dopaminergic midbrain is gated by behavioral state in singing birds
+
+方向 3 论文 1 PDF：
+assets/papers/chen_journal_of_neurophysiology_2021.pdf
+
+方向 3 论文 2 信息：
+Scientific Reports / 2018
+
+方向 3 论文 2 标题：
+Place preference and vocal learning rely on distinct reinforcers in songbirds
+
+方向 3 论文 2 PDF：
+assets/papers/murdoch_scientific_reports_2018.pdf
+
+## 动态视图
+
+分节 id：
+news
+
+分节肩题：
+动态
+
+条目 1 日期：
+2026.07.18
+
+条目 1 公告：
+我将共同主持 Neurobiology of Cognition GRS，欢迎申请参加！
+
+条目 1 链接按钮：
+会议信息
+
+条目 1 链接：
+https://www.grc.org/neurobiology-of-cognition-grs-conference/2026
+
+条目 2 日期：
+2026.02.28
+
+条目 2 公告：
+我接受了科学网的采访。
+
+条目 2 链接按钮：
+查看采访
+
+条目 2 链接：
+https://news.sciencenet.cn/htmlnews/2026/2/560639.shtm
+
+条目 3 日期：
+2026.01.31
+
+条目 3 公告：
+脑人言主办的线上讲座。
+
+条目 3 第一个链接按钮：
 在 YouTube 观看
 
-信息条目：
-来源：iBrainTalk / YouTube
-
-视频链接：
+条目 3 第一个链接：
 https://www.youtube.com/watch?v=y4RyTX0tq8s
 
-## 主要研究
+条目 3 第二个链接按钮：
+在哔哩哔哩观看
+
+条目 3 第二个链接：
+https://www.bilibili.com/video/BV1ftFhzeEVP/?spm_id_from=333.1387.collection.video_card.click
+
+条目 4 日期：
+2026.01.07
+
+条目 4 公告：
+我的第一篇博士后论文发表于 Nature。
+
+条目 4 第一个链接按钮：
+查看论文
+
+条目 4 第一个链接：
+https://www.nature.com/articles/s41586-025-09885-0
+
+条目 4 第二个链接按钮：
+了解更多
+
+条目 4 第二个链接：
+#research-observation
+
+条目 5 日期：
+2025.05.04
+
+条目 5 公告：
+我和智子一起开始了一档新播客：《两块钱》。
+
+条目 5 英文链接按钮：
+Listen on Apple Podcasts
+
+条目 5 英文链接：
+https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
+
+条目 5 中文链接按钮：
+在小宇宙收听
+
+条目 5 中文链接：
+https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
+
+## 研究视图
 
 分节肩题：
-主要研究
+研究
 
-分节标题：
-代表性工作
+### 研究方向 1
 
-### 项目 1
+标签：
+经验与观察
 
 标题：
 来自经验与观察的证据如何整合成统一的信念？
 
 段落 1：
-我们研究灵长类大脑中观察学习如何与证据积累相互作用。两个玩家轮流执行和观察，同时双方都在积累证据。人类和猴子的行为数据表明观察和经验并不对称：即使视觉信息和动机状态匹配，观察学习的效率仍低于直接经验。
+我们研究观察学习如何与灵长类大脑中的证据积累相互作用。在一个双人任务中，受试者轮流执行和观察，同时双方都在积累证据。人类和猴子的行为数据显示出稳定的不对称性：即使视觉信息和动机状态匹配，观察学习的效率仍低于直接经验。
 
 段落 2：
 前扣带皮层的电生理记录显示，亲身经验和观察所得的证据都会被编码，并投射到共享的信念轴上，但其对齐方式偏向自我经验。群体几何分析和循环神经网络建模进一步表明，这种偏差来源于 ACC 内部动力学中的计算机制，为我们为何会系统性低估从他人处学习提供了机制解释。
 
-代表作标签：
-代表作
+论文信息：
+Nature / 2026
 
-论文：
-扣带皮层中来自经验与观察的证据积累
+论文标题：
+Evidence accumulation from experience and observation in the cingulate cortex
 
-作者：
-Chen R*, Radkani S*, Valluru N, Yoo SBM, Jazayeri M.
+论文 PDF：
+assets/papers/chen_nature_2026.pdf
 
-期刊与年份：
-Nature, 2026
-
-简介：
-展示了 ACC 如何将亲历与观察到的证据整合为共享的信念表征，并对自我经验赋予更高权重。
-
-文章按钮：
-文章
-
-文章链接：
-https://doi.org/10.1038/s41586-025-09885-0
-
-新闻报道按钮：
+支持链接按钮：
 新闻报道
 
-新闻报道链接：
+支持链接：
 https://mcgovern.mit.edu/2026/01/07/learning-from-each-other/
 
-简介文章按钮：
+支持链接按钮：
 文章简介：为什么百闻不如一见？
 
-简介文章链接：
+支持链接：
 https://zhuanlan.zhihu.com/p/1992203318399898641
 
-### 项目 2
+### 研究方向 2
+
+标签：
+鸣唱学习与内在动机
 
 标题：
 内在动机驱动的强化学习
 
 段落 1：
-我在鸣禽系统中的工作考察了多巴胺预测误差如何支持发声学习。基于此前关于投射至 Area X 的 VTA 神经元在鸣唱过程中编码表现预测误差的证据，这一研究进一步确定腹侧苍白球是这些信号的关键来源。通过损伤、逆行病毒回路追踪、微刺激以及单神经元的电信号记录，我证明了腹侧苍白球对于歌曲学习是必需的；它接收来自歌曲时序与误差相关区域的输入，并向多巴胺中脑发送多样化的表现误差信号。
+强化学习是神经科学中发现的最为成功的算法。动物通过尝试来强化能带来奖励的行动策略。奖励的范围如何？是否局限于食物和水等直接奖励？在一系列使用鸣禽斑胸草雀的行为和神经生理学实验中，我们考察了多巴胺预测误差如何支持鸟学习唱歌。我们发现：多巴胺神经元在鸣唱过程中编码表现预测误差，而腹侧苍白球是这些信号的关键来源。
 
 段落 2：
 这些发现促成了一个关于歌曲学习的行动者-评价者框架，将多个脑区连接到同一回路层面的解释中，以说明内在表现误差如何驱动学习。
 
-代表作标签：
-代表作
+论文信息：
+Current Opinion in Neurobiology / 2020
 
-论文：
-鸣禽中的行动者-评价者强化学习
+论文标题：
+Actor-critic reinforcement learning in the songbird
 
-作者：
-Chen R, Goldberg J.
+论文 PDF：
+assets/papers/chen_current_opinion_in_neurobiology_2020.pdf
 
-期刊与年份：
-Current Opinion in Neurobiology, 2020
+论文信息：
+Neuron / 2019
 
-简介：
-提出了一个关于歌曲学习的回路层面行动者-评价者解释框架。
+论文标题：
+Songbird Ventral Pallidum Sends Diverse Performance Error Signals to Dopaminergic Midbrain
 
-文章按钮：
-文章
+论文 PDF：
+assets/papers/chen_neuron_2019.pdf
 
-文章链接：
-https://linkinghub.elsevier.com/retrieve/pii/S0959438820301173
+论文信息：
+Science / 2016
 
-论文：
-鸣禽腹侧苍白球向多巴胺中脑发送多样化的表现误差信号
+论文标题：
+Dopamine neurons encode performance error in singing birds
 
-作者：
-Chen R, Puzerey P, Roeser A, Riccelli T, Podury A, Maher K, Farhang A, Goldberg J.
+论文 PDF：
+assets/papers/gadagkar_science_2016.pdf
 
-期刊与年份：
-Neuron, 2019
+### 研究方向 3
 
-简介：
-发现腹侧苍白球是向多巴胺中脑发送表现误差信号的重要来源。
-
-文章按钮：
-文章
-
-文章链接：
-https://linkinghub.elsevier.com/retrieve/pii/S0896627319303952
-
-论文：
-鸣唱鸟中的多巴胺神经元编码表现误差
-
-作者：
-Gadagkar V, Puzerey P, Chen R, Baird-Daniel E, Farhang A, Goldberg J.
-
-期刊与年份：
-Science, 2016
-
-简介：
-证明了投射至基底神经节的多巴胺神经元在鸣唱过程中编码表现误差。
-
-文章按钮：
-文章
-
-文章链接：
-https://www.science.org/doi/10.1126/science.aah6837
-
-### 项目 3
+标签：
+多重动机驱动
 
 标题：
-鸟类脑与行为中鸣唱与运动模块的组织
+不同动机驱动下的行为模块组织
 
 段落 1：
-大脑如何协调不同的行为输出模块？在斑胸草雀中，鸣唱和运动可以被同时研究，因此能够比较不同任务之间的强化与时序。行为实验表明，同一种宽带噪声刺激既可以负向强化发声变体，也可以在位置偏好任务中正向强化运动行为，这说明在同一个体中实际上存在多种内在动机。
+生物系统需要同时协调多个目标，例如完成一项运动技能并保持与群体接近。专门化的行为模块是如何组织的？在斑胸草雀中，鸣唱和运动可以被同时研究，因此能够比较不同行为的动机驱动力。我们的实验表明，同一种宽带噪声刺激既可以负向强化发声变体，也可以正向强化运动行为，说明多种内在动机可以并行运作，并被适当地路由到不同的行为输出模块。
 
 段落 2：
-对腹侧苍白球和多巴胺中脑的神经活动分析进一步表明，时序信号可以在亚秒时间尺度上在鸣唱与运动之间切换。由此得到的图景是：基底神经节和中脑回路并非固定服务于单一功能，而是能够在不同的行为情境中被灵活门控。
+对腹侧苍白球和多巴胺中脑的神经活动分析进一步显示，时序信号可以在亚秒时间尺度上在鸣唱与运动之间切换。这支持了一个观点：基底神经节和中脑回路并非固定服务于单一功能，而是能够在不同的行为情境中被灵活门控。
 
-代表作标签：
-代表作
+论文信息：
+Journal of Neurophysiology / 2021
 
-论文：
-鸣唱鸟中腹侧苍白球和多巴胺中脑的运动信号受行为状态门控
+论文标题：
+Movement signaling in ventral pallidum and dopaminergic midbrain is gated by behavioral state in singing birds
 
-作者：
-Chen R, Gadagkar V, Roeser A, Puzerey P, Goldberg J.
+论文 PDF：
+assets/papers/chen_journal_of_neurophysiology_2021.pdf
 
-期刊与年份：
-Journal of Neurophysiology, 2021
+论文信息：
+Scientific Reports / 2018
 
-简介：
-证明神经时序信号能够在亚秒时间尺度上根据行为状态在鸣唱与运动之间切换。
+论文标题：
+Place preference and vocal learning rely on distinct reinforcers in songbirds
 
-文章按钮：
-文章
-
-文章链接：
-https://journals.physiology.org/doi/10.1152/jn.00110.2021
-
-论文：
-鸣禽中的位置偏好与发声学习依赖不同的强化信号
-
-作者：
-Murdoch D, Chen R, Goldberg J.
-
-期刊与年份：
-Scientific Reports, 2018
-
-简介：
-表明同一噪声在位置偏好中可以是奖赏性的，但在发声学习中却是厌恶性的，揭示了彼此独立的强化系统。
-
-文章按钮：
-文章
-
-文章链接：
-https://www.nature.com/articles/s41598-018-25112-5
-
-## 链接
-
-版式说明：
-可自动换行的纯图标链接，不显示文字，也不显示分节标题。
-
-邮箱标签：
-邮箱
-
-邮箱链接：
-mailto:ruidong@mit.edu
-
-RSS 标签：
-RSS
-
-RSS 链接：
-https://feed.xyzfm.space/f8hkmwvejlj8
-
-GitHub 标签：
-GitHub
-
-GitHub 链接：
-https://github.com/chenruidong/
-
-X 标签：
-X
-
-X 链接：
-https://x.com/ruidongchen
-
-Bsky 标签：
-Bluesky
-
-Bsky 链接：
-https://bsky.app/profile/ruidong.bsky.social
-
-LinkedIn 标签：
-领英
-
-LinkedIn 链接：
-https://www.linkedin.com/in/ruidong-chen-b5174733/
-
-知乎标签：
-知乎
-
-知乎链接：
-https://www.zhihu.com/people/mon1st
-
-小宇宙标签：
-小宇宙
-
-小宇宙链接：
-https://www.xiaoyuzhoufm.com/podcast/6817c030601614cb6bbd0d6a
-
-Apple Podcasts 标签：
-苹果播客
-
-Apple Podcasts 链接：
-https://podcasts.apple.com/us/podcast/%E4%B8%A4%E5%9D%97%E9%92%B1/id1812355099
-
-## 履历
-
-分节肩题：
-背景
-
-分节标题：
-履历
-
-下载模块标题：
-下载履历
-
-下载模块文案：
-完整学术履历，包括任职、论文、演讲与学术服务。
-
-下载按钮：
-下载 PDF
-
-当前任职标签：
-当前任职
-
-当前任职标题：
-麻省理工学院 Jazayeri 实验室研究科学家
-
-当前任职说明：
-麦戈文脑科学研究所
-
-博士训练标签：
-博士训练
-
-博士训练标题：
-康奈尔大学神经生物学与行为学博士
-
-博士训练说明：
-围绕神经回路、行为与理论开展跨模型研究。
-
-本科训练标签：
-本科训练
-
-本科训练标题：
-香港大学计算机科学工学学士
-
-本科训练说明：
-为系统神经科学提供计算方法基础。
+论文 PDF：
+assets/papers/murdoch_scientific_reports_2018.pdf
 
 ## 页脚
 
-页脚文案：
-由 AI 协助制作，经本人校对。
+(删除页脚)
