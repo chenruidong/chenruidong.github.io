@@ -14,10 +14,14 @@
     <div class="page-shell">
       <header class="site-header">
         <div class="header-actions">
+          <a class="site-brand" href="#top" data-route="top" aria-label="Ruidong Chen home">
+            <span class="lang-en">Ruidong Chen</span>
+            <span class="lang-zh">陈睿东</span>
+          </a>
           <nav class="site-nav" aria-label="Primary">
             <a href="#cognitive-flexibility" data-route="cognitive-flexibility" data-nav-key="cognitive-flexibility">
-              <span class="lang-en">Cognitive Flexibility</span>
-              <span class="lang-zh">认知灵活性</span>
+              <span class="lang-en">About</span>
+              <span class="lang-zh">简介</span>
             </a>
             <a href="#research-observation" data-route="research-observation" data-nav-key="research">
               <span class="lang-en">Research</span>
@@ -33,9 +37,9 @@
             </a>
           </nav>
           <div class="header-links" aria-label="Profile and social links">
-            <a class="social-link social-link--core" href="mailto:ruidong@mit.edu" aria-label="Email" title="Email">
+            <span class="social-link social-link--core" aria-label="Email" title="ruidong at mit dot edu">
               <img class="social-icon" src="assets/icons/links/email.svg" alt="" width="64" height="64" decoding="async">
-            </a>
+            </span>
             <a class="social-link" href="https://github.com/chenruidong/" aria-label="GitHub" title="GitHub">
               <img class="social-icon" src="assets/icons/links/github.svg" alt="" width="64" height="64" decoding="async">
             </a>
@@ -73,6 +77,10 @@
           <section class="hero" id="cognitive-flexibility">
             <div class="hero-layout">
               <div class="hero-body">
+                <h1>
+                  <span class="lang-en">Ruidong Chen</span>
+                  <span class="lang-zh">陈睿东</span>
+                </h1>
                 <p class="eyebrow">
                   <span class="lang-en">Neuroscience of flexible cognition</span>
                   <span class="lang-zh">灵活认知的神经科学</span>
@@ -94,15 +102,38 @@
                   </span>
                 </p>
               </div>
+              <aside class="profile-card" aria-label="Profile">
+                <figure class="profile-headshot">
+                  <img
+                    class="profile-photo"
+                    src="assets/images/profile/ruidong.jpg"
+                    alt="Ruidong Chen"
+                    width="490"
+                    height="490"
+                    decoding="async"
+                  >
+                </figure>
+                <div class="profile-details">
+                  <p>
+                    <span class="lang-en">McGovern Institute for Brain Research, MIT</span>
+                    <span class="lang-zh">麻省理工学院麦戈文脑研究所</span>
+                  </p>
+                  <p>ruidong at mit dot edu</p>
+                </div>
+              </aside>
             </div>
           </section>
 
           <section class="section research-preview" id="research-preview">
             <div class="section-heading">
               <p class="section-kicker">
+                <span class="lang-en">Selected publications</span>
+                <span class="lang-zh">代表论文</span>
+              </p>
+              <h2>
                 <span class="lang-en">Research</span>
                 <span class="lang-zh">研究</span>
-              </p>
+              </h2>
             </div>
 
             <div class="research-preview-grid">
@@ -192,6 +223,10 @@
                 <span class="lang-en">News</span>
                 <span class="lang-zh">动态</span>
               </p>
+              <h2>
+                <span class="lang-en">News</span>
+                <span class="lang-zh">动态</span>
+              </h2>
             </div>
 
             <div class="news-timeline">
@@ -241,6 +276,10 @@
                 <span class="lang-en">News</span>
                 <span class="lang-zh">动态</span>
               </p>
+              <h2>
+                <span class="lang-en">News</span>
+                <span class="lang-zh">动态</span>
+              </h2>
             </div>
 
             <div class="news-timeline">
@@ -330,6 +369,10 @@
                 <span class="lang-en">Research</span>
                 <span class="lang-zh">研究</span>
               </p>
+              <h2>
+                <span class="lang-en">Research</span>
+                <span class="lang-zh">研究</span>
+              </h2>
             </div>
 
             <div class="research-area-tabs" role="tablist" aria-label="Research areas">
@@ -530,33 +573,326 @@
                 <span class="lang-en">CV</span>
                 <span class="lang-zh">履历</span>
               </p>
+              <h2>
+                <span class="lang-en">Curriculum vitae</span>
+                <span class="lang-zh">履历</span>
+              </h2>
             </div>
-            <div class="cv-frame-wrap">
-              <div class="cv-renderer" data-pdf-src="downloads/Chen-CV-2026.pdf" hidden>
-                <p class="cv-loading">
-                  <span class="lang-en">Loading CV preview...</span>
-                  <span class="lang-zh">正在加载履历预览...</span>
-                </p>
-              </div>
-              <iframe
-                class="cv-frame cv-frame-fallback"
-                src="downloads/Chen-CV-2026.pdf#page=1&zoom=page-width&pagemode=none&navpanes=0"
-                title="Ruidong Chen CV PDF preview"
-              ></iframe>
-            </div>
-            <div class="cv-actions">
-              <a class="support-link" href="downloads/Chen-CV-2026.pdf" target="_blank" rel="noopener noreferrer">
-                <span class="lang-en">Open in new tab</span>
-                <span class="lang-zh">在新标签页打开</span>
-              </a>
-              <a class="support-link" href="downloads/Chen-CV-2026.pdf" download>
-                <span class="lang-en">Download PDF</span>
-                <span class="lang-zh">下载 PDF</span>
-              </a>
-            </div>
+            <article class="cv-document" aria-label="Ruidong Chen curriculum vitae">
+              <header class="cv-profile">
+                <div>
+                  <h3>Ruidong Chen</h3>
+                  <dl class="cv-contact" aria-label="Contact information">
+                    <div>
+                      <dt>Address</dt>
+                      <dd>43 Vassar St., 6041, Cambridge MA 02139</dd>
+                    </div>
+                    <div>
+                      <dt>Email</dt>
+                      <dd>chenruidong9 at gmail dot com</dd>
+                    </div>
+                  </dl>
+                </div>
+                <div class="cv-actions cv-actions-top">
+                  <a class="support-link" href="downloads/Chen CV 2026.pdf" download>
+                    <span class="lang-en">Download PDF</span>
+                    <span class="lang-zh">下载 PDF</span>
+                  </a>
+                </div>
+              </header>
+
+              <section class="cv-section" aria-labelledby="cv-education">
+                <h3 id="cv-education">Education</h3>
+                <div class="cv-list">
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2020">2020</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Ph.D., Neurobiology and Behavior</h4>
+                      <p>Cornell University, Ithaca, NY</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2014">2014</time></div>
+                    <div class="cv-entry-body">
+                      <h4>B.E., Computer Science</h4>
+                      <p>The University of Hong Kong, Hong Kong</p>
+                    </div>
+                  </article>
+                </div>
+              </section>
+
+              <section class="cv-section" aria-labelledby="cv-publications">
+                <h3 id="cv-publications">Publications</h3>
+                <div class="cv-list">
+                  <article class="cv-entry cv-publication-entry">
+                    <div class="cv-entry-body">
+                      <h4><a href="assets/papers/chen_nature_2026.pdf">Evidence accumulation from experience and observation in the cingulate cortex</a></h4>
+                      <p>Chen, R., Radkani, S., Valluru, N., Yoo, S.B.M., Jazayeri, M. Nature (<time datetime="2026">2026</time>).</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry cv-publication-entry">
+                    <div class="cv-entry-body">
+                      <h4><a href="assets/papers/roeser_elife_2023.pdf">The songbird lateral habenula projects to dopaminergic midbrain and is important for normal vocal development</a></h4>
+                      <p>Roeser, A.C., Teoh, H.K., Chen, R., &amp; Goldberg, J. H. eLife (<time datetime="2023">2023</time>).</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry cv-publication-entry">
+                    <div class="cv-entry-body">
+                      <h4><a href="assets/papers/chen_journal_of_neurophysiology_2021.pdf">Movement signaling in ventral pallidum and dopaminergic midbrain is gated by behavioral state in singing birds</a></h4>
+                      <p>Chen, R., Gadagkar, V., Roeser, A. C., Puzerey, P. A., &amp; Goldberg, J. H. Journal of Neurophysiology (<time datetime="2021">2021</time>).</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry cv-publication-entry">
+                    <div class="cv-entry-body">
+                      <h4><a href="assets/papers/chen_current_opinion_in_neurobiology_2020.pdf">Actor-critic reinforcement learning in the songbird</a></h4>
+                      <p>Chen, R., &amp; Goldberg, J. H. Current Opinion in Neurobiology (<time datetime="2020">2020</time>).</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry cv-publication-entry">
+                    <div class="cv-entry-body">
+                      <h4><a href="assets/papers/chen_neuron_2019.pdf">Songbird Ventral Pallidum Sends Diverse Performance Error Signals to Dopaminergic Midbrain</a></h4>
+                      <p>Chen, R., Puzerey, P., Roeser, A., Riccelli, T., Podury, A., Maher, K., Farhang, A., &amp; Goldberg, J. Neuron (<time datetime="2019">2019</time>).</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry cv-publication-entry">
+                    <div class="cv-entry-body">
+                      <h4>A Stable Neural Code for Birdsong</h4>
+                      <p>Chen, R., Bollu, T., &amp; Goldberg, J. Neuron (<time datetime="2018">2018</time>).</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry cv-publication-entry">
+                    <div class="cv-entry-body">
+                      <h4><a href="assets/papers/murdoch_scientific_reports_2018.pdf">Place preference and vocal learning rely on distinct reinforcers in songbirds</a></h4>
+                      <p>Murdoch, D., Chen, R., &amp; Goldberg, J. Scientific Reports (<time datetime="2018">2018</time>).</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry cv-publication-entry">
+                    <div class="cv-entry-body">
+                      <h4><a href="assets/papers/gadagkar_science_2016.pdf">Dopamine Neurons Encode Performance Error in Singing Birds</a></h4>
+                      <p>Gadagkar, V., Puzerey, P., Chen, R., Baird-Daniel, E., Farhang, A., &amp; Goldberg, J. Science (<time datetime="2016">2016</time>).</p>
+                    </div>
+                  </article>
+                </div>
+              </section>
+
+              <section class="cv-section" aria-labelledby="cv-research-experience">
+                <h3 id="cv-research-experience">Research Experience</h3>
+                <div class="cv-list">
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2024">2024</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Research Scientist</h4>
+                      <p>Laboratory of Mehrdad Jazayeri, MIT</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2020">2020</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Postdoctoral Fellow</h4>
+                      <p>Laboratory of Mehrdad Jazayeri, MIT</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2019">2019</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Grass Fellow</h4>
+                      <p>Marine Biological Laboratory</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2014">2014</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Ph.D. student</h4>
+                      <p>Laboratory of Jesse Goldberg, Cornell University</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2015">2015</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Rotation student</h4>
+                      <p>Laboratory of Melissa Warden, Cornell University</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2013">2013</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Research assistant</h4>
+                      <p>Laboratory of Mark Nelson, University of Illinois</p>
+                    </div>
+                  </article>
+                </div>
+              </section>
+
+              <section class="cv-section" aria-labelledby="cv-presentations">
+                <h3 id="cv-presentations">Presentations</h3>
+                <h4 class="cv-subsection-title">Talks</h4>
+                <div class="cv-list">
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2024">2024</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Evidence integration from experience and observation in the cingulate cortex</h4>
+                      <p>Simian Collective trainee talk.</p>
+                      <p>Gordon Research Seminar on Neurobiology of Cognition.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2023">2023</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Observational learning in the macaque brain</h4>
+                      <p>SCSB Lunch Series.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2018">2018</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Songbird ventral basal ganglia sends performance error signals to dopaminergic midbrain</h4>
+                      <p>Bird Song and Animal Communication.</p>
+                      <h4>The songbird ventral basal ganglia sends performance error signals to vocal motor cortex and dopaminergic midbrain</h4>
+                      <p>Kavli Institute for Systems Neuroscience, NTNU.</p>
+                      <h4>Ventral basal ganglia sends performance error signals to VTA in singing birds</h4>
+                      <p>Computational Neuroscience of Prediction.</p>
+                      <h4>The songbird ventral basal ganglia sends performance error signals to vocal motor cortex and dopaminergic midbrain</h4>
+                      <p>European Birdsong Meeting.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2017">2017</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Basal forebrain sends performance error signals to VTA in singing birds</h4>
+                      <p>Junior Scientist Workshop, Janelia Research Campus.</p>
+                    </div>
+                  </article>
+                </div>
+
+                <h4 class="cv-subsection-title">Posters</h4>
+                <div class="cv-list">
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2023">2023</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Multi-agent evidence accumulation in the anterior cingulate cortex of monkeys</h4>
+                      <p>Society for Neuroscience.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2022">2022</time></div>
+                    <div class="cv-entry-body">
+                      <h4>A paradigm for one-shot learning from experience and observation in non-human primates</h4>
+                      <p>Society for Neuroscience.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2019">2019</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Movement related activity in ventral pallidum and dopaminergic midbrain is gated by behavioral state</h4>
+                      <p>Society for Neuroscience.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2018">2018</time></div>
+                    <div class="cv-entry-body">
+                      <h4>The songbird ventral basal ganglia sends performance error signals to vocal motor cortex and dopaminergic midbrain</h4>
+                      <p>Cold Spring Harbor Symposium on Quantitative Biology.</p>
+                      <h4>Ventral basal ganglia sends performance error signals to VTA in singing birds</h4>
+                      <p>COSYNE.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2017">2017</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Songbirds implement multiobjective reinforcement learning with action-specific cost functions</h4>
+                      <p>Society for Neuroscience.</p>
+                      <h4>The ventral basal ganglia sends performance error signals to VTA in singing birds</h4>
+                      <p>Society for Neuroscience.</p>
+                    </div>
+                  </article>
+                </div>
+              </section>
+
+              <section class="cv-section" aria-labelledby="cv-teaching">
+                <h3 id="cv-teaching">Teaching Experience</h3>
+                <div class="cv-list">
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2016">2016</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Teaching Assistant, Introduction to Neurobiology</h4>
+                      <p>Cornell University</p>
+                    </div>
+                  </article>
+                </div>
+              </section>
+
+              <section class="cv-section" aria-labelledby="cv-honors">
+                <h3 id="cv-honors">Honors and Awards</h3>
+                <div class="cv-list">
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2023">2023</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Simons Postdoctoral Fellowship</h4>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2021">2021</time></div>
+                    <div class="cv-entry-body">
+                      <h4>J. Douglas Tan Postdoctoral Fellowship</h4>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2018">2018</time></div>
+                    <div class="cv-entry-body">
+                      <h4>T&amp;C Chen Fellowship stipend</h4>
+                      <p>FENS, IBRO-PERC and The Brain Prize stipend.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2014">2014</time></div>
+                    <div class="cv-entry-body">
+                      <h4>University Fellowship</h4>
+                      <p>Cornell University</p>
+                    </div>
+                  </article>
+                </div>
+              </section>
+
+              <section class="cv-section" aria-labelledby="cv-professional-activity">
+                <h3 id="cv-professional-activity">Professional Activity</h3>
+                <div class="cv-list">
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta"><time datetime="2026">2026</time></div>
+                    <div class="cv-entry-body">
+                      <h4>Co-chair</h4>
+                      <p>Gordon Research Seminar on Neurobiology of Cognition.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta">2023-present</div>
+                    <div class="cv-entry-body">
+                      <h4>Chair</h4>
+                      <p>MIT BCS Postdoc Association Science Committee.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta">2014-present</div>
+                    <div class="cv-entry-body">
+                      <h4>Member</h4>
+                      <p>Society for Neuroscience.</p>
+                    </div>
+                  </article>
+                  <article class="cv-entry">
+                    <div class="cv-entry-meta">Ad-hoc reviewer</div>
+                    <div class="cv-entry-body">
+                      <p>Science Advances, Neural Networks, Current Biology, COSYNE, PLOS Computational Biology, Nature Communications.</p>
+                    </div>
+                  </article>
+                </div>
+              </section>
+            </article>
           </section>
         </div>
       </main>
+      <footer class="site-footer">
+        <span class="lang-en">© 2026 Ruidong Chen. Theme inspired by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.</span>
+        <span class="lang-zh">© 2026 陈睿东。主题灵感来自 <a href="https://github.com/alshedivat/al-folio">al-folio</a>。</span>
+      </footer>
     </div>
 
     <script>
@@ -590,18 +926,7 @@
         var collapsibleHeaderIcons = Array.prototype.slice.call(
           document.querySelectorAll(".header-links .social-link:not(.social-link--core)")
         );
-        var cvRenderer = document.querySelector(".cv-renderer");
-        var cvFallbackFrame = document.querySelector(".cv-frame-fallback");
         var iconFitRaf = 0;
-        var cvRenderRaf = 0;
-        var cvRenderState = {
-          loading: false,
-          ready: false,
-          failed: false,
-          pdfDoc: null,
-          lastWidth: 0,
-          renderToken: 0
-        };
 
         function setIconCollapsed(icon, collapsed) {
           icon.classList.toggle("is-collapsed", collapsed);
@@ -638,116 +963,6 @@
           iconFitRaf = window.requestAnimationFrame(function () {
             iconFitRaf = 0;
             collapseHeaderIconsToFit();
-          });
-        }
-
-        function createCvPageCanvas(pageNumber) {
-          var page = document.createElement("div");
-          page.className = "cv-page";
-          var canvas = document.createElement("canvas");
-          canvas.setAttribute("role", "img");
-          canvas.setAttribute("aria-label", "CV page " + pageNumber);
-          page.appendChild(canvas);
-          cvRenderer.appendChild(page);
-          return canvas;
-        }
-
-        function renderCvPreview() {
-          if (!cvRenderer || !cvRenderState.ready || !cvRenderState.pdfDoc) {
-            return;
-          }
-          var width = Math.floor(cvRenderer.clientWidth);
-          if (!width) {
-            return;
-          }
-          if (Math.abs(width - cvRenderState.lastWidth) < 2) {
-            return;
-          }
-          cvRenderState.lastWidth = width;
-          var token = ++cvRenderState.renderToken;
-          cvRenderer.innerHTML = "";
-          var dpr = window.devicePixelRatio || 1;
-
-          function renderPage(pageNumber) {
-            if (token !== cvRenderState.renderToken || pageNumber > cvRenderState.pdfDoc.numPages) {
-              return Promise.resolve();
-            }
-            return cvRenderState.pdfDoc.getPage(pageNumber).then(function (page) {
-              if (token !== cvRenderState.renderToken) {
-                return Promise.resolve();
-              }
-              var viewport = page.getViewport({ scale: 1 });
-              var cssScale = width / viewport.width;
-              var cssViewport = page.getViewport({ scale: cssScale });
-              var renderViewport = page.getViewport({ scale: cssScale * dpr });
-              var canvas = createCvPageCanvas(pageNumber);
-              var context = canvas.getContext("2d", { alpha: false });
-              canvas.width = Math.round(renderViewport.width);
-              canvas.height = Math.round(renderViewport.height);
-              canvas.style.width = Math.round(cssViewport.width) + "px";
-              canvas.style.height = Math.round(cssViewport.height) + "px";
-              return page.render({
-                canvasContext: context,
-                viewport: renderViewport
-              }).promise.then(function () {
-                return renderPage(pageNumber + 1);
-              });
-            });
-          }
-
-          renderPage(1).catch(function () {
-          });
-        }
-
-        function requestCvRender() {
-          if (!cvRenderState.ready) {
-            return;
-          }
-          if (cvRenderRaf) {
-            return;
-          }
-          cvRenderRaf = window.requestAnimationFrame(function () {
-            cvRenderRaf = 0;
-            renderCvPreview();
-          });
-        }
-
-        function ensureCvPreviewLoaded() {
-          if (!cvRenderer || cvRenderState.failed) {
-            return;
-          }
-          if (cvRenderState.ready) {
-            requestCvRender();
-            return;
-          }
-          if (cvRenderState.loading) {
-            return;
-          }
-          cvRenderState.loading = true;
-          cvRenderer.hidden = false;
-          if (cvFallbackFrame) {
-            cvFallbackFrame.hidden = true;
-          }
-          var source = cvRenderer.getAttribute("data-pdf-src");
-          import("https://cdn.jsdelivr.net/npm/pdfjs-dist@4.3.136/build/pdf.min.mjs").then(function (pdfjsLib) {
-            pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.3.136/build/pdf.worker.min.mjs";
-            return pdfjsLib.getDocument(source).promise;
-          }).then(function (pdfDoc) {
-            cvRenderState.pdfDoc = pdfDoc;
-            cvRenderState.ready = true;
-            cvRenderState.loading = false;
-            cvRenderState.lastWidth = 0;
-            if (cvFallbackFrame) {
-              cvFallbackFrame.hidden = true;
-            }
-            requestCvRender();
-          }).catch(function () {
-            cvRenderState.failed = true;
-            cvRenderState.loading = false;
-            cvRenderer.hidden = true;
-            if (cvFallbackFrame) {
-              cvFallbackFrame.hidden = false;
-            }
           });
         }
 
@@ -851,7 +1066,6 @@
             showView("cv");
             setActiveNav(route);
             window.scrollTo(0, 0);
-            ensureCvPreviewLoaded();
             return;
           }
 
@@ -892,11 +1106,9 @@
         });
         window.addEventListener("resize", function () {
           requestHeaderIconFit();
-          requestCvRender();
         });
         window.addEventListener("load", function () {
           requestHeaderIconFit();
-          requestCvRender();
         });
 
         var saved = "en";
