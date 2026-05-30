@@ -363,6 +363,12 @@ Dopamine neurons encode performance error in singing birds
 Paper PDF:
 assets/papers/gadagkar_science_2016.pdf
 
+Support link label:
+Chinese summary
+
+Support link URL:
+https://zhuanlan.zhihu.com/p/22464286
+
 ### Research Area 3
 
 Tab label:
@@ -394,6 +400,12 @@ Place preference and vocal learning rely on distinct reinforcers in songbirds
 
 Paper PDF:
 assets/papers/murdoch_scientific_reports_2018.pdf
+
+Support link label:
+Chinese summary
+
+Support link URL:
+https://zhuanlan.zhihu.com/p/2044153606782326271
 
 ## Footer
 

@@ -357,6 +357,12 @@ Dopamine neurons encode performance error in singing birds
 论文 PDF：
 assets/papers/gadagkar_science_2016.pdf
 
+支持链接按钮：
+文章简介：《科学》：多巴胺信号编码成功与失败
+
+支持链接：
+https://zhuanlan.zhihu.com/p/22464286
+
 ### 研究方向 3
 
 标签：
@@ -388,6 +394,12 @@ Place preference and vocal learning rely on distinct reinforcers in songbirds
 
 论文 PDF：
 assets/papers/murdoch_scientific_reports_2018.pdf
+
+支持链接按钮：
+文章简介：强化学习只有一个奖励信号吗？
+
+支持链接：
+https://zhuanlan.zhihu.com/p/2044153606782326271
 
 ## 页脚
 
