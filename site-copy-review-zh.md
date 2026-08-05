@@ -93,7 +93,7 @@ news-preview
 2026.07.18
 
 条目 1 公告：
-我将共同主持 Neurobiology of Cognition GRS，欢迎申请参加！
+我共同主持了 Neurobiology of Cognition GRS。
 
 条目 1 链接按钮：
 会议信息
@@ -202,7 +202,7 @@ news
 2026.07.18
 
 条目 1 公告：
-我将共同主持 Neurobiology of Cognition GRS，欢迎申请参加！
+我共同主持了 Neurobiology of Cognition GRS。
 
 条目 1 链接按钮：
 会议信息

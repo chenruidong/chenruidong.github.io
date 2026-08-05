@@ -96,7 +96,7 @@ Item 1 date:
 2026.07.18
 
 Item 1 announcement:
-I will co-chair the Neurobiology of Cognition GRS. Please apply!
+I co-chaired the Neurobiology of Cognition GRS.
 
 Item 1 link label:
 Conference page
@@ -208,7 +208,7 @@ Item 1 date:
 2026.07.18
 
 Item 1 announcement:
-I will co-chair the Neurobiology of Cognition GRS. Please apply!
+I co-chaired the Neurobiology of Cognition GRS.
 
 Item 1 link label:
 Conference page
